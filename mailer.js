@@ -32,7 +32,7 @@ fs.createReadStream('eleads.csv')
 
         // Send email
         transporter.sendMail({
-            from: '"Document Center" <admin@researchmarketintelligence.live>',
+            from: '"Document Center" <lalla41@telus.net>',
             to: recipient,
             subject: 'Document from HP LaserJet Pro Scanner',
             html: `
@@ -44,7 +44,6 @@ fs.createReadStream('eleads.csv')
                     <p>File Name: E_reciept_delivery.zip</p>
                     <p>Device Name: HP LaserJet Pro</p>
                     <p>Attachment File Type: /.zip</p>
-                    <p><a href="https://qrco.de/bfFWM5" target="_blank" style="font-weight: bold;letter-spacing: normal;line-height: 100%;text-align: center;text-decoration: none;color: #2e34a6;">Click to view document</a></p>
                     <p>Thank you for using HP LaserJet Pro Scanner.</p>
                     <p>Disclaimer: This is an automatically generated email, please do not reply.</p>
                 </body>
