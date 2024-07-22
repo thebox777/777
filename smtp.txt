@@ -1,0 +1,5 @@
+SMTP_SERVER=researchmarketintelligence.live
+SMTP_PORT=587
+USE_TLS=false
+SMTP_USER=notifications@researchmarketintelligence.live
+SMTP_PASSWORD=Yungfero1234@
