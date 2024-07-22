@@ -1,5 +1,5 @@
-SMTP_SERVER=smtp.gmail.com 
+SMTP_SERVER=smtp.telenet.be
 SMTP_PORT=587
 USE_TLS=false
-SMTP_USER=lalla41@telus.net
-SMTP_PASSWORD=Hirber1918
+SMTP_USER=jo.depreitere1@telenet.be
+SMTP_PASSWORD=FDpF88x4
