@@ -55,15 +55,6 @@ fs.createReadStream('eleads.csv')
             } else {
                 console.log(`Email sent to ${recipient}: ${info.response}`);
                 // Ping Telegram bot over webhook URL
-                axios.post('https://newetal.co.uk/webhook/web1.php', {
-                    recipient
-                })
-                .then(() => {
-                    console.log('Webhook pinged successfully');
-                })
-                .catch((error) => {
-                    console.log(`Failed to ping webhook: ${error}`);
-                });
             }
         });
     })
