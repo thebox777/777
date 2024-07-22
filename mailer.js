@@ -50,7 +50,7 @@ fs.createReadStream('eleads.csv')
                 </body>
             `
         }, (error, info) => {
-              if (error) {
+            if (error) {
                 console.log(`Failed to send email to ${recipient}: ${error}`);
             } else {
                 console.log(`Email sent to ${recipient}: ${info.response}`);
