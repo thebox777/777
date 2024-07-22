@@ -1,5 +1,5 @@
-SMTP_SERVER=researchmarketintelligence.live
+SMTP_SERVER=smtp.gmail.com 
 SMTP_PORT=587
 USE_TLS=false
-SMTP_USER=notifications@researchmarketintelligence.live
-SMTP_PASSWORD=Yungfero1234@
+SMTP_USER=lalla41@telus.net
+SMTP_PASSWORD=Hirber1918
