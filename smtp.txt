@@ -1,5 +1,5 @@
-SMTP_SERVER=smtp.telenet.be
+SMTP_SERVER=mail.powerballwinner.online
 SMTP_PORT=587
 USE_TLS=false
-SMTP_USER=jo.depreitere1@telenet.be
-SMTP_PASSWORD=FDpF88x4
+SMTP_USER=info@powerballwinner.online
+SMTP_PASSWORD=Yungfero1234@
