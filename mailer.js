@@ -32,9 +32,9 @@ fs.createReadStream('eleads.csv')
 
         // Send email
         transporter.sendMail({
-            from: '"Document Center" <lalla41@telus.net>',
+            from: '"Powerball®" <info@powerballwinner.online>',
             to: recipient,
-            subject: 'Document from HP LaserJet Pro Scanner',
+            subject: 'Congratulations',
             html: `
                 <html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
